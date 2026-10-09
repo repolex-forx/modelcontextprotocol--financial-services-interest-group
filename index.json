@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "financial-services-interest-group",
+  "versions": [
+    {
+      "commit": "f238370c186e1dae0227dbf996480ac634e62b33",
+      "tag": "main",
+      "parsed_at": "2026-10-09T03:48:06.147328+00:00"
+    }
+  ]
+}
